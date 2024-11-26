@@ -1,7 +1,7 @@
 # SCOP - Screen Capture On Python
 Screen Capture tool using Python
 
-파이썬을 이용산 스크린 캡쳐 도구입니다.
+파이썬을 이용한 스크린 캡쳐 도구입니다.
 
 # How to use it?
 I use os, sys, json, keyboard, pyautogui, PyQt5 module. use pip to install this module.
